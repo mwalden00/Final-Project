@@ -1,8 +1,8 @@
-#Graphics Final Project Proposal
+# Graphics Final Project Proposal
 
 Maximilian Walden, Pd 5
 
-Features I'92d like to implement:
+Features I'd like to implement:
 
 * implementing the mdl mesh command
   * using external .obj files with the mesh command
