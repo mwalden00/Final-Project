@@ -2,7 +2,7 @@
 
 Maximilian Walden, Pd 5
 
-### NOTE: In order to generate the .obj render, first unzip the mars.obj file!
+### NOTE: Before you run `make`, make sure to unzip the mars.obj file!
 
 ## Additions
 
