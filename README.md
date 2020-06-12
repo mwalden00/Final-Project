@@ -2,6 +2,8 @@
 
 Maximilian Walden, Pd 5
 
+### NOTE: In order to generate the .obj render, first unzip the mars.obj file!
+
 ## Additions
 
 - Added the `light` command
