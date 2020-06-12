@@ -30,4 +30,7 @@ obj my_Obj.obj
 display
 ```
 
+In my final project module, I have two .mdl files. Both are run upon a `make` command.
 
+The first one, `test_light.mdl`, is a script that creates a sphere in the center and two lights, one green and one purple.
+The other, `mars.mdl`, renders a high polygon image of the statue of Mars, with the same lights as `test_light.mdl`.
