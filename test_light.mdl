@@ -1,0 +1,7 @@
+//LIGHT
+light light_1 -2 1 1 130 0 255
+light light_2 3 3 0 0 255 0
+//SPHERE (LIGHTING TEST)
+sphere 500 500 0 100
+display
+save lighting_test.png

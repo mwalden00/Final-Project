@@ -1,0 +1,13 @@
+//LIGHT
+light light_1 -2 1 1 130 0 255
+light light_2 3 3 0 0 255 0
+//TRANSFORMATIONS
+push
+move 270 950 0
+rotate z 180
+rotate y 180
+scale 270 270 270
+//OBJ
+obj mars.obj
+display
+save mars.png
